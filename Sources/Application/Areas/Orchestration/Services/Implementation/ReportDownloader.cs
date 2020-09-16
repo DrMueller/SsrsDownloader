@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Threading.Tasks;
 using Mmu.SsrsDownloader.Areas.SubAreas.Files.Services;
 using Mmu.SsrsDownloader.Areas.SubAreas.Ids.Services;
@@ -26,6 +27,8 @@ namespace Mmu.SsrsDownloader.Areas.Orchestration.Services.Implementation
         {
             Console.WriteLine("Fetching IDs to download..");
             var receiptDeclarationIds = await _idProvider.ProvideIdsToDownloadAsync();
+            receiptDeclarationIds = receiptDeclarationIds.OrderByDescending(f => f).ToList();
+
             Console.WriteLine($"Downloading {receiptDeclarationIds.Count} reports..");
 
             foreach (var id in receiptDeclarationIds)
@@ -33,7 +36,7 @@ namespace Mmu.SsrsDownloader.Areas.Orchestration.Services.Implementation
                 try
                 {
                     Console.WriteLine($"Downloading {id}..");
-                    var report = await _serviceCaller.CallServiceAsync(id);
+                    var report = _serviceCaller.CallService(id);
                     Console.WriteLine($"Persisting {id}..");
                     _fileRepo.SaveReport(report);
                 }

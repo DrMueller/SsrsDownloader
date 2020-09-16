@@ -1,12 +1,16 @@
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\bin\Debug\Mmu.SsrsDownloader.exe.config
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\bin\Debug\Mmu.SsrsDownloader.exe
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\bin\Debug\Mmu.SsrsDownloader.pdb
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\bin\Debug\StructureMap.dll
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\bin\Debug\StructureMap.xml
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\obj\Debug\Mmu.SsrsDownloader.csprojAssemblyReference.cache
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\obj\Debug\Mmu.SsrsDownloader.csproj.CoreCompileInputs.cache
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\obj\Debug\Mmu.SsrsDownloader.csproj.CopyComplete
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\obj\Debug\Mmu.SsrsDownloader.exe
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\obj\Debug\Mmu.SsrsDownloader.pdb
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\bin\Debug\JetBrains.Annotations.dll
-C:\Users\mlm\OneDrive - Trivadis AG\Work\Kunden\FIFA\App\Sources\Application\bin\Debug\JetBrains.Annotations.xml
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\Mmu.SsrsDownloader.exe.config
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\Mmu.SsrsDownloader.exe
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\Mmu.SsrsDownloader.pdb
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\JetBrains.Annotations.dll
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\StructureMap.dll
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\JetBrains.Annotations.xml
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\bin\Debug\StructureMap.xml
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\obj\Debug\Mmu.SsrsDownloader.csprojAssemblyReference.cache
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\obj\Debug\Mmu.SsrsDownloader.csproj.CoreCompileInputs.cache
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\obj\Debug\Mmu.SsrsDownloader.csproj.CopyComplete
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\obj\Debug\Mmu.SsrsDownloader.exe
+C:\MyGit\Personal\SsrsDownloader\Sources\Application\obj\Debug\Mmu.SsrsDownloader.pdb
